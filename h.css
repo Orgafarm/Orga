@@ -1,0 +1,17 @@
+*{
+margin:5px;
+padding: 0px;
+    
+}
+.hwork {
+    align-items: center;
+}
+#p1{
+    border: 1px solid black;
+}
+#p2{
+    border: 1px solid black;
+}
+#p3{
+    border: 1px solid black;
+}
